@@ -1,4 +1,4 @@
-# Sorting
+# Interactive sorting simulator
 
 ![App](assets/app.png "App")
 
